@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+
+.boton{
+    background-color: green;
+    color: brown;
+    padding: 20px;
+    border: lime;
+}
+
+.espacios{
+    margin: 10px;
+}
+
+.contenedor{
+    position: relative;
+}
+.contenido{
+    position: absolute;
+}
