@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to top, blue, black);
+}
+
+li{
+    list-style:none;
+}
